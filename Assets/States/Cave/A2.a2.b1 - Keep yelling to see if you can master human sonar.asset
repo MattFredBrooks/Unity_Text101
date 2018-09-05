@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4599c82cf057cf24c93a0c113d0b909f, type: 3}
+  m_Name: A2.a2.b1 - Keep yelling to see if you can master human sonar
+  m_EditorClassIdentifier: 
+  storyText: After yelling for awhile you hear something yell back, and after that
+    everything was eternally dark. You've died!
+  nextStates:
+  - {fileID: 11400000, guid: 51e9351e14b15b84ab47f7e1aecb2e08, type: 2}

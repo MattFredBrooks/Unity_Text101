@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4599c82cf057cf24c93a0c113d0b909f, type: 3}
+  m_Name: A1 - Hole 1
+  m_EditorClassIdentifier: 
+  storyText: 'You see a pond in the dimly lit room. There is a light coming from within
+    the pond. There is also another hole to climb through. What do you do?
+
+
+    1. Dive into pond
+
+
+    2. Climb through another hole'
+  nextStates:
+  - {fileID: 11400000, guid: b59708f6005e47f4d939c8146bd9b7d7, type: 2}
+  - {fileID: 11400000, guid: 03250e2f5cb90424d9434ec622613d67, type: 2}

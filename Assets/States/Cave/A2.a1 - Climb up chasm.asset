@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4599c82cf057cf24c93a0c113d0b909f, type: 3}
+  m_Name: A2.a1 - Climb up chasm
+  m_EditorClassIdentifier: 
+  storyText: You can't tell if you are seeing ghosts or fog, but it's hard to see
+    through these moving clouds. You feel your way along the walls and think you've
+    found a flat smooth surface. What do you do?
+  nextStates:
+  - {fileID: 11400000, guid: 815fb3862e51a7449908d14e5adb0871, type: 2}
+  - {fileID: 11400000, guid: 94e5b921d92ab204fb52dd43606f4272, type: 2}
